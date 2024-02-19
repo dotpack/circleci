@@ -9,4 +9,4 @@ workflows:
       - welcome/run
 notify:
   webhooks:
-    - url: https://hooks-glpapiaws.dev.glip.net/webhook/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvdCI6ImMiLCJvaSI6IjEyNTQ2NTM5NTMiLCJpZCI6IjEyNDU1MTE5NSJ9.mIe7Ni755YzrYGMI1J2n5g2Pc2Zjn4mA7-_G8VR40V4
+    - url: https://hooks.ringcentral.com/webhook/v2/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvdCI6ImMiLCJvaSI6IjQ0NDY2MTc3IiwiaWQiOiIyMzM1OTk3OTc5In0.nJnSdD3d2ODrbt4cjamuiYDq2X5CeYwLRRMUMH0nGI8
